@@ -8,6 +8,8 @@
 
 • I'm currently trying to learn everything.
 
+<img title="" alt="" src="https://discord.bio/p/451">
+
 
 💎 | Socials
 
