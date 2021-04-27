@@ -18,5 +18,8 @@
 
 [<img src="https://img.icons8.com/color/2x/python.png" height=35>](https://www.python.org) [<img src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" height=35>](https://developer.mozilla.org/en-US/docs/Web/HTML) [<img src="https://dashboard.snapcraft.io/site_media/appmedia/2019/05/code512.png" height=30>](https://code.visualstudio.com/insiders/)
 
+Find Me On Discord
+451'#2950
 
-
+You Can Contact With Me Via Following Adress
+contactwme.451@gmail.com
