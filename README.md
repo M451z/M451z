@@ -10,7 +10,7 @@
 
 
 
-[![Spotify](https://451ek.vercel.app/api/spotify)](https://open.spotify.com/user/shhx8zeu1kshhrn19lmbk3mby)
+[![Spotify](https://451ek.vercel.app/api/spotify)](https://open.spotify.com/user/Emir Kaan)
 
 
 
