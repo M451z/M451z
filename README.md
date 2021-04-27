@@ -13,6 +13,8 @@
 
 [<img src="https://image.flaticon.com/icons/png/128/174/174876.png" height=35>](https://twitter.com/emirk_451) [<img src="https://image.flaticon.com/icons/png/128/174/174872.png" height=35>](http://open.spotify.com/user/EmirKaan) [<img src="https://image.flaticon.com/icons/png/128/174/174866.png" height=35>](https://www.reddit.com/user/AK-451) [<img src="https://img.icons8.com/fluent/2x/discord-new-logo.png" height=35>](https://discord.gg/VzyKSWcRxk) [<img src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-logo-shapes/250/steam_logo-128.png" height=35>](https://steamcommunity.com/id/451EK/) 
 
+[<img src="https://discord.bio/p/451" height="90",width="120">](dsc.bio/451)
+
 
 💻 | Languages & Tools
 
