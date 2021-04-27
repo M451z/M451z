@@ -9,7 +9,7 @@
 • I'm currently trying to learn everything.
 
 
-[<img src="https://spotif-psi.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/shhx8zeu1kshhrn19lmbk3mby)
+[<img src="https://novatorem1-pink.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/shhx8zeu1kshhrn19lmbk3mby)
 
 
 
