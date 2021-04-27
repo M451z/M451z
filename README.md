@@ -23,4 +23,5 @@ Find Me On Discord -
 You Can Contact With Me Via This Adress - 
 contactwme.451@gmail.com
 
-<img align="left" alt="451EK's Github Stats" src="https://github-readme-stats.vercel.app/api?username=451EK&show_icons=true&hide_border=true">
+
+<img align="left" alt="451EK's Github Stats" src="https://github-readme-stats.vercel.app/api?username=451EK&show_icons=true&hide_border=true&theme=dark">
