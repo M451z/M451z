@@ -1,6 +1,6 @@
 **🌠 451** 
 
-• My name is Emir Kaan.You can call me 451 as well.
+• My name is Emir Kaan.You can call me 451.
 
 • I was born in 2006.
 
