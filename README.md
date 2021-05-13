@@ -15,7 +15,7 @@
 
 💻 | Languages & Tools
 
-[<img src="https://img.icons8.com/color/2x/python.png" height=35>](https://www.python.org) [<img src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" height=35>](https://developer.mozilla.org/en-US/docs/Web/HTML) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height=30>](https://code.visualstudio.com)
+[<img src="https://img.icons8.com/color/2x/python.png" height=35>](https://www.python.org) [<img src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" height=35>](https://developer.mozilla.org/en-US/docs/Web/HTML) [<img src="https://i1.wp.com/pythondunyasi.com/wp-content/uploads/2019/01/logo-1-e1547850888695.png?fit=500%2C500&ssl=1" height=35>](https://www.jetbrains.com/pycharm/)
 
 Find Me On Discord - 
 451'#2950
