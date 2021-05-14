@@ -15,7 +15,7 @@
 
 💻 | Languages & Tools
 
-[<img src="https://img.icons8.com/color/2x/python.png" height=35>](https://www.python.org) [<img src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" height=35>](https://developer.mozilla.org/en-US/docs/Web/HTML) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height=35] (https://www.w3schools.com/css/) 
+[<img src="https://img.icons8.com/color/2x/python.png" height=35>](https://www.python.org) [<img src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" height=35>](https://developer.mozilla.org/en-US/docs/Web/HTML) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" height=35>](https://www.w3schools.com/css/) 
 
 
 Find Me On Discord - 
