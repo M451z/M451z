@@ -9,7 +9,7 @@
 • I'm currently trying to learn everything.
 
 
-<img src="https://camo.githubusercontent.com/3b779d06f5a6185f57806229719bca6b01b25e367e75c4bd873d3f5a004cf9f9/68747470733a2f2f646973636f72642e6339392e6e6c2f7769646765742f7468656d652d332f3238333331323936393933313239323637322e706e67" alt data-canonical-src="https://discord.c99.nl/widget/theme-3/283312969931292672.png" style="max-width:100%;">
+
 
 
 💎 | Socials
