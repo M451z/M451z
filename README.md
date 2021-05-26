@@ -18,7 +18,7 @@
 
 💻 | Languages & Tools
 
-[<img src="https://img.icons8.com/color/2x/python.png" height=35>](https://www.python.org)[<img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" height = 35 >](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) [<img src="http://upload.turkcewiki.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height=35>](https://code.visualstudio.com) [<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg" height=35>](https://www.photoshop.com/en)
+[<img src="https://img.icons8.com/color/2x/python.png" height=35>](https://www.python.org)[<img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" height = 35 >](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) [<img src="https://i1.wp.com/pythondunyasi.com/wp-content/uploads/2019/01/logo-1-e1547850888695.png?fit=500%2C500&ssl=1" height=35>](https://www.jetbrains.com/pycharm/download/#section=windows) [<img src="https://i.imgur.com/4buTl3i.png" height=35>](https://sourceforge.net/projects/sharpdevelop/)[<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg" height=35>](https://www.photoshop.com/en)
 
 
 📊 | Stats
