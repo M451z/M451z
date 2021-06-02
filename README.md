@@ -18,7 +18,7 @@
 
 💻 | Languages & Tools
 
-[<img src="https://img.icons8.com/color/2x/python.png" height=35>](https://www.python.org)[<img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" height = 35 >](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) [<img src="http://upload.turkcewiki.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height=28>](https://code.visualstudio.com) [<img src="https://img.icons8.com/color/452/visual-studio-2019.png" height=35>](https://visualstudio.microsoft.com/vs/)[<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg" height=35>](https://www.photoshop.com/en)
+[<img src="https://img.icons8.com/color/2x/python.png" height=35>](https://www.python.org)[<img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" height = 35 >](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/) [<img src="http://upload.turkcewiki.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height=35>](https://code.visualstudio.com) [<img src="https://img.icons8.com/color/452/visual-studio-2019.png" height=35>](https://visualstudio.microsoft.com/vs/)[<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg" height=35>](https://www.photoshop.com/en)
 
 
 📊 | Stats
