@@ -2,9 +2,9 @@
 
 • My name is Emir Kaan.You can call me 451.
 
-• I was born in 2006.
-
 • I live in Turkey.
+
+• I was born in 2006.
 
 • I'm currently trying to learn everything.
 
