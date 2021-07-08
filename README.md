@@ -1,6 +1,6 @@
 <h1>🌠 451 </h1>
 
-• My name is Emir Kaan.You can call me 451.
+• My name is Emir.
 
 • I live in Turkey.
 
