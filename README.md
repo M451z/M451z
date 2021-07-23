@@ -19,7 +19,7 @@
 
 💻 | Languages & Tools
 
-[<img src="https://img.icons8.com/color/2x/python.png" height=35>](https://www.python.org)[<img src="http://imajans.com.tr/blog/wp-content/uploads/2015/02/html5.png" height=35>](https://www.w3schools.com/html/)[<img src="http://upload.turkcewiki.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height=35>](https://code.visualstudio.com) [<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg" height=35>](https://www.photoshop.com/en)
+[<img src="https://img.icons8.com/color/2x/python.png" height=35>](https://www.python.org)[<img src="http://imajans.com.tr/blog/wp-content/uploads/2015/02/html5.png" height=35>](https://www.w3schools.com/html/)[<img src="http://upload.turkcewiki.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" height=35>](https://code.visualstudio.com) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/FileZilla_logo.svg/1200px-FileZilla_logo.svg.png" height=35>](https://filezilla-project.org) [<img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-cs6.svg" height=35>](https://www.photoshop.com/en)
 
 
 📊 | Stats
