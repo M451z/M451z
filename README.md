@@ -1,10 +1,8 @@
 <h1>🌠 451 </h1>
 
-• My name is Emir.
+• 📁 Name Emir Kaan.
 
-• I live in Turkey.
-
-• I was born in 2006.
+• 📅 Born 17st of September
 
 • I'm currently trying to learn everything.
 
