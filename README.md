@@ -1,6 +1,6 @@
 <h1>🌠 451 </h1>
 
-• 📁 Name Emir Kaan.
+• 📁 Name's Emir Kaan.
 
 • 📅 Born 17th of September
 
