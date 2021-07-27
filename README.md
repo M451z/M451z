@@ -2,7 +2,7 @@
 
 • 📁 Name Emir Kaan.
 
-• 📅 Born 17st of September
+• 📅 Born 17th of September
 
 • I'm currently trying to learn everything.
 
