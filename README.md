@@ -10,7 +10,7 @@
 
 [<img src="https://image.flaticon.com/icons/png/128/174/174876.png" height=35>](https://twitter.com/M451z) [<img src="https://image.flaticon.com/icons/png/128/174/174872.png" height=35>](http://open.spotify.com/user/EmirKaan) [<img src="https://aslangamestudio.com/tr/wp-content/uploads/2021/04/discord-mascot.png" height=35>](https://discordapp.com/users/453613270725558292) [<img src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-logo-shapes/250/steam_logo-128.png" height=35>](https://steamcommunity.com/id/451EK/) 
 
-<img src="https://discord.com/api/guilds/851375796609351730/widget.png?style=banner2">
+<a href="https://discord.gg/3BB8XS27Pw" target="_blank"><img src="https://discord.com/api/guilds/851375796609351730/widget.png?style=banner2" data-canonical-src="https://discord.com/api/guilds/851375796609351730/widget.png?style=banner2"></a>
 
 💻 | Languages & Tools
 
