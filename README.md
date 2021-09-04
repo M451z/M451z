@@ -6,6 +6,10 @@
 
 • I'm currently trying to learn everything.
 
+• Current Favorite Song 👀
+
+https://open.spotify.com/track/1JAkXiY10vwLhSbcsiimrp?si=c5eba5c1928c42ae
+
 💎 | Socials
 
 [<img src="https://image.flaticon.com/icons/png/128/174/174876.png" height=35>](https://twitter.com/M451z) [<img src="https://image.flaticon.com/icons/png/128/174/174872.png" height=35>](http://open.spotify.com/user/EmirKaan) [<img src="https://aslangamestudio.com/tr/wp-content/uploads/2021/04/discord-mascot.png" height=35>](https://discordapp.com/users/453613270725558292) [<img src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-logo-shapes/250/steam_logo-128.png" height=35>](https://steamcommunity.com/id/451EK/) 
