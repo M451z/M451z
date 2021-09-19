@@ -6,9 +6,6 @@
 
 • I'm currently trying to learn everything.
 
-• Current Favorite Song 👀
-
-https://open.spotify.com/track/1JAkXiY10vwLhSbcsiimrp?si=c5eba5c1928c42ae
 
 💎 | Socials
 
