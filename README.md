@@ -1,10 +1,16 @@
 <h1>🌠 451 </h1>
 
+<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gpddxn&nd=6&style=22" border="0" alt="free counter"></a>
+
 • Name's Emir Kaan.
 
 • Born 17th of September.
 
 • I'm currently trying to learn everything.
+
+📄 | Unique Visitors
+
+<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gpddxn&nd=6&style=22" border="0" alt="free counter"></a>
 
 
 💎 | Socials
