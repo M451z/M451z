@@ -9,7 +9,7 @@
 
 📄 | Unique Visitors
 
-<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gpddxn&nd=6&style=22" border="0" alt="free counter"></a>
+<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=gmpddxo&nd=9&style=22" border="0" alt="free counter"></a>
 
 
 💎 | Socials
