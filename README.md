@@ -7,10 +7,6 @@
 
 • I'm currently trying to learn everything.
 
-📄 | Page Views
-
-<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.webfreecounter.com/hit.php?id=guepddaq&nd=9&style=22" border="0" alt="web counter"></a>
-
 
 💎 | Socials
 
