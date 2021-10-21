@@ -1,7 +1,9 @@
 <h1>🌠 451 </h1>
 
 
-• Born 17th of September.
+• I love to listen to music.
+
+• You may make me happy with a song suggestion.
 
 • I'm currently trying to learn everything.
 
