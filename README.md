@@ -3,9 +3,8 @@
 
 • I love to listen to music.
 
-• You may make me happy with a song suggestion.
+• Addicted to Dua Lipa, Mercedes Maybach and die Panzerkampwagen.
 
-• I'm currently trying to learn everything.
 
 
 💎 | Socials
