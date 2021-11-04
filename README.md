@@ -3,7 +3,7 @@
 
 • I love to listen to music.
 
-• Addicted to Dua Lipa, Mercedes Maybach and die Panzerkampwagen.
+• Addicted to Dua Lipa, Mercedes Maybach and die Panzerkampfwagen.
 
 
 
