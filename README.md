@@ -1,11 +1,6 @@
 <h1>🌠 451 </h1>
 
 
-• I love to listen to music.
-
-• Addicted to Dua Lipa, Mercedes Maybach and die Panzerkampfwagen.
-
-
 
 💎 | Socials
 
