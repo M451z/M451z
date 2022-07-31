@@ -1,14 +1,12 @@
-<h1>🌠 451 (INACTIVE)</h1>
+<h1>🌠 M451z </h1>
 
 
 
 💎 | Socials
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/240px-Twitter-logo.svg.png" height=35>](https://twitter.com/M451z) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" height=35>](http://open.spotify.com/user/EmirKaan) [<img src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-logo-shapes/250/steam_logo-128.png" height=35>](https://steamcommunity.com/id/451EK/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/240px-Twitter-logo.svg.png" height=35>](https://twitter.com/M451z) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/2048px-Spotify_logo_without_text.svg.png" height=35>](http://open.spotify.com/user/EmirKaan) [<img src="https://theme.zdassets.com/theme_assets/9580103/07defec28cdc4dca22ce6e2154b1c2299346fe5f.png" height=35>](https://www.guilded.gg/u/Emir) [<img src="https://cdn2.iconfinder.com/data/icons/gaming-platforms-logo-shapes/250/steam_logo-128.png" height=35>](https://steamcommunity.com/id/451EK/)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/M451z.png?9" alt="TryHackMe">
-
-<a href="https://discord.com/users/453613270725558292" target="_blank"><img src="https://discord.c99.nl/widget/theme-4/453613270725558292.png"></a>
 
 💻 | Languages & Softwares
 
