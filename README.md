@@ -12,4 +12,4 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M451z&theme=dark)](https://github.com/M451z)
 
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=M451z&show_icons=true&hide_border=true&theme=dark">
+<img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=M451z&show_icons=true&hide_border=true&theme=dracula">
