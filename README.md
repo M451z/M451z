@@ -1,6 +1,8 @@
 <h1>🌠 M451z </h1>
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=shhx8zeu1kshhrn19lmbk3mby&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=shhx8zeu1kshhrn19lmbk3mby&redirect=true)
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/M451z.png?9" alt="TryHackMe">
 
 💻 | Languages & Softwares
